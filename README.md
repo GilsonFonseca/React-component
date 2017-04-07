@@ -3,7 +3,7 @@ An incrementer component with a controller attribute
 
 This component is a incrementer component, where you set the attribute and give it a state to make it work properly.
 # USAGE
-First download it with the command npm i increasing-counter
+First download it with the command npm i increasing-counter <br />
 This is an example of usage:
 
 import React from 'react';
