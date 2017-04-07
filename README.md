@@ -18,6 +18,6 @@ ReactDOM.render(
 
 If you set ativo as true the counter will increase, but if you set false the counter will go to 0 and stop there.
 
-#INFO
+# INFO
 
 For more info you can go to [here](https://www.npmjs.com/package/increasing-counter)
